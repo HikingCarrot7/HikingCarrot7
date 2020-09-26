@@ -2,9 +2,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HikingCarrot7&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HikingCarrot7&layout=compact">
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikingCarrot7&layout=compact)
 
 <!--
 **HikingCarrot7/HikingCarrot7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikingCarrot7&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikingCarrot7&layout=compact)
 </p>
 
 <!--

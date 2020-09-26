@@ -2,8 +2,8 @@
 
 <p align="center">
   ![HikingCarrot7's github stats](https://github-readme-stats.vercel.app/api?username=HikingCarrot7&show_icons=true)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikingCarrot7&layout=compact)
 </p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HikingCarrot7&layout=compact)
 <!--
 **HikingCarrot7/HikingCarrot7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
